@@ -1,5 +1,5 @@
 
-Password Generator
+# Password Generator
 
 
 Allows the user to generate a random password based on the user-selected criteria. Such as if the want lower case, upper case, numeric vaules, or special characters. The generator even allows the user to select how many characters they want within their password, i.e. 6-20 characters.
@@ -12,7 +12,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 MIT License
 
-Copyright (c) [2021] [Alexandria Alixis Atwell]
+Copyright © 2021 [Alexandria Alixis Atwell]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
